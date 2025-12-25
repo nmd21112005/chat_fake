@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596201268592",
+    "project_id": "zalo-clone-nhom13",
+    "storage_bucket": "zalo-clone-nhom13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596201268592:android:450b3e7f14b4e1b6e91bb5",
+        "android_client_info": {
+          "package_name": "com.nhom13.chat_fake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbdCjgRI6YGrr8qc6lJtCptzUefEkY0p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
